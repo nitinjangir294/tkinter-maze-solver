@@ -1,1 +1,1 @@
-# tkinter-maze-solver
+# MAZE SOLVER USING SEARCH ALGORITHMS
